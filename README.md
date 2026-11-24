@@ -3,6 +3,17 @@
 
 ![Dither Shaderpack Banner](https://cdn.modrinth.com/data/cached_images/e17fde2e2dcc1557619af4810aa537e7f149b214.png)
 
+# Dither-alembic
+
+> From Sir Ax-o-Lotl, not the original creator
+
+This is a slight venture into shader programming for a modpack i am working on. This has been sitting on my harddrive for a while and i see there is now another fork attempting to add Distant Horizons support, among other things. This has only been tested on Minecraft version 1.21.1 where Distant Horizons works fine. As mentioned in the commit, i have not done anything with the Outline depth testing for DH.
+
+If Snorfield (or anybody else) wants to update the original project then permission is given not to attribute to commit:
+625f2426d37d166121a8c4b0b1dae20380545dcb
+
+I do not consider this distinct enough to be a unique contribution.
+
 # Dither
 
 Dither is a high-performance stylized shaderpack that aims to recreate hand-drawn pixel art graphics in minecraft. The pack is highly customizable and allows you to control almost every aspect of it. 
